@@ -35,7 +35,7 @@ terminator2 = media.Movie("Terminator 2: Judgment Day",
                      "https://www.youtube.com/watch?v=7QXDPzx71jQ")
 
 movies = [inception, interstellar, terminator2, matrix1, matrix2, matrix3]
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
 
 
