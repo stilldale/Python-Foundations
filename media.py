@@ -1,5 +1,9 @@
 import webbrowser
 
+# This code is designed to provide a way to create Movie objects with associated
+# title, description of storyline, poster image link, and trailer link for page rendering.
+# The class also provides a function to open the link for the trailer to view.
+
 class Movie():
     """This class provides a way to store movie related information"""
 
